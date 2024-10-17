@@ -1,0 +1,3 @@
+# Replace with email and password, rename to .env
+email=EMAIL    
+password=PASSWORD
